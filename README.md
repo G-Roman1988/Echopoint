@@ -1,2 +1,2 @@
-# Echopoint
-this is an app (apk) that scans BLE devices with IBeacon protocol to find BLE on ESP32. by UUID, major and minor.this application comes to help blind and visually impaired people to identify public transport by themselves.
+this is an app (apk) that scans BLE devices with IBeacon protocol to find BLE on ESP32. by UUID, major and minor. this BLE (Esp32) emits a UUID, major and minor every 500 milliseconds, where UUID represents the device the application needs to find, but major represents a category and minor a subcategory. this application comes to help blind and visually impaired people to identify public transport by th    emselves.  
+  
